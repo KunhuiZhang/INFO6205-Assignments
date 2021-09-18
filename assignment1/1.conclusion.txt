@@ -1,0 +1,5 @@
+n: the number of steps;
+d: the distance between the terminal point and original point.
+
+formual:
+d^2 = n
